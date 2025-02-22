@@ -13,28 +13,7 @@ The script uses the default media player to play the files.
 ✔ Automatically detects all .mp3 files in the Music folder.
 ✔ Easy-to-use menu for selecting and playing songs.
 
+📥 Download Pre-Release
+
 Enjoy your music with Spark! 🚀🎶
-
-🎵 Spark Projekt (Deutsch)
-Ein einfacher Musik-Player in Batch.
-
-📂 Installation
-Erstelle einen Ordner mit dem Namen Music im selben Verzeichnis wie das Skript.
-Lege deine .mp3-Dateien in den Music-Ordner.
-▶️ Nutzung
-Beim Start zeigt das Skript eine Liste der verfügbaren Songs (Dateinamen).
-Wähle eine Nummer, um den entsprechenden Song abzuspielen.
-Das Skript nutzt den Standard-Mediaplayer zum Abspielen.
-⚡ Funktionen
-✔ Einfach und leichtgewichtig – keine zusätzliche Software nötig.
-✔ Erkennt automatisch alle .mp3-Dateien im Music-Ordner.
-✔ Benutzerfreundliches Menü zur Songauswahl.
-
-Viel Spaß mit Spark! 🚀🎶
-
-
-
-
-
-
 
