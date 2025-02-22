@@ -7,7 +7,7 @@ Place your .mp3 files inside the Music folder.
 ▶️ How to Use
 When you start the script, it will display a list of available songs (file names).
 Select a number to play the corresponding song.
-The script uses the default media player to play the files.
+The script uses the My own python Player to play the files.
 ⚡ Features
 ✔ Simple and lightweight – no extra software required.
 ✔ Automatically detects all .mp3 files in the Music folder.
