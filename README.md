@@ -17,3 +17,4 @@ The script uses the default media player to play the files.
 
 Enjoy your music with Spark! 🚀🎶
 
+https://github.com/MaikyDevs/spark-projekt/releases/tag/music
